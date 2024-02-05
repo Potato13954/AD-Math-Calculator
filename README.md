@@ -1,1 +1,2 @@
-I just Made a Calculator in Python and just thought I would share it as my first python project
+List Of Python Projects:
+Math Calculator: I made a calculator in Python for my first project, features of the calculator include Multiplication, Division, Addition and Subtraction. Hope you like it
